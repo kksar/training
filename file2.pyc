@@ -1,1 +1,3 @@
-modif in file 2
+public function add(a, b) {
+retour a+b;
+}
